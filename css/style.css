@@ -151,7 +151,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 100%;
+  width: 100vh;
 }
 
 .container-body .container-img-for-text .header img {
