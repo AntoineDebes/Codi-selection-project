@@ -6,5 +6,5 @@ It containes contents of which can improve and prevent form getting side effects
 It's made by 4 teammates which are :
                                      -Antoine Debes
                                      -Hussein Abou Hachem
-                                     -Mahmoud Almokadad(to know more about him <a href="https://github.com/MaHmoudAlmoKdaD">Click here</a>
+                                     -Mahmoud Almokadad(to know more about him <a href="https://github.com/MaHmoudAlmoKdaD" target="_blank">Click here</a>
                                      -Sharifa Al Assi
