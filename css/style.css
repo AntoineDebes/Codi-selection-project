@@ -221,7 +221,7 @@
 
 .container-body .intro-for-problems {
   position: absolute;
-  top: 56%;
+  top: 50%;
   -webkit-transform: translateY(50%);
   transform: translateY(50%);
   color: white;
@@ -316,6 +316,9 @@
 }
 
 @media (max-width: 62rem) {
+  .container-body .container-img-for-text .header {
+    width:100%;
+  }
   .container-body h2 {
     font-size: 1.3rem;
   }
@@ -332,6 +335,9 @@
 }
 
 @media (max-width: 37rem) {
+   .container-body .container-img-for-text .header {
+    width:100%;
+  }
   .col-1 {
     width: 100% !important;
     padding-top: 2rem;
@@ -371,6 +377,9 @@
 }
 
 @media (max-width: 25rem) {
+   .container-body .container-img-for-text .header {
+    width:100%;
+  }
   .nav-info-container .ul-container p {
     display: none;
   }
