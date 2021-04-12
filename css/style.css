@@ -220,7 +220,7 @@
 
 .container-body .intro-for-problems {
   position: absolute;
-  top: 56%;
+  top: 50%;
   -webkit-transform: translateY(50%);
   transform: translateY(50%);
   color: white;
